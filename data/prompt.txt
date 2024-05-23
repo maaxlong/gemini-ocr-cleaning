@@ -1,0 +1,24 @@
+
+Prompt:
+
+Here is a text containing a list of businesses and their addresses which has been extracted using OCR. Output this text as a cleaned list in plain text format, bearing in mind frequent OCR errors including punctuation, line breaks, and misspellings. Preserve headings as well as the original order. Keep to the following instructions:
+- Very important: preserve current order and integrity of the document itself (i.e. do not re-order the list in any way).
+- Preserve any headings (e.g 'England' or 'Cotton Manufacturers'). The only place-based heading titles are 'England', 'Wales', and 'Scotland'
+- Pay close attention to correcting line break errors
+- Ignore page numbers
+- Do not stop until you have cleaned the entire text
+- The original text begins after the "$$$$" below
+
+Use these examples to guide you:
+Ireland
+BLANKET MANUFACTURERS
+Jarvis Brothers (flax, hemp and tow), Union Street Mill, Arbroath
+Hollins William & Co., Ltd., Via Gellia Mill, Cromford, Derbyshire; Pleasley Works, Mansfield; and Radford, Nottingham
+
+England
+WOOL WASHERS
+Waddell Jas., Glencairn Mill, Head's Nook, near Carlisle, Cumberland
+Corner Henry & Co., Rowbarton Factory, Taunton, Somerset
+
+$$$$
+
